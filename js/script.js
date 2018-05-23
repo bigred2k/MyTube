@@ -11,7 +11,7 @@ var userRe = /youtube\.com\/user\/([^\/]+)\/?/;
 
 	var ids = [];
 	var videos = "";
-	var key = "AIzaSyDH4mPNqdx7WTx3ziikiEAkzC_JXb6Wr74";
+	var key = "";
 	var lines = [];
 	var lastRefresh = null;
 	var highlightNew = true;
